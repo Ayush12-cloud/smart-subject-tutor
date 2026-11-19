@@ -2,7 +2,55 @@
 
 An open-source, zero-API-key Retrieval-Augmented Generation (RAG) tutor built in GitHub Codespaces that adapts explanations across four pedagogical styles.
 
-## 🏗️ v1.0 Architecture
+## 🏗️ v1.0 ## Testing and Validation
+
+The application was tested using a sample
+college-level Computer Fundamentals PDF.
+
+### Tested Features
+- PDF uploading
+- PDF text extraction
+- Document indexing
+- Gemini-based question answering
+- Context-based answer generation
+- Page number citations
+- Multiple question testing
+
+### Testing Results
+Tested PDF upload and question-answering
+functionality using 20 sample questions.## Testing and Validation
+
+The application was tested using a sample
+college-level Computer Fundamentals PDF.
+
+### Tested Features
+- PDF uploading
+- PDF text extraction
+- Document indexing
+- Gemini-based question answering
+- Context-based answer generation
+- Page number citations
+- Multiple question testing
+
+### Testing Results
+Tested PDF upload and question-answering
+functionality using 20 sample questions.## Testing and Validation
+
+The application was tested using a sample
+college-level Computer Fundamentals PDF.
+
+### Tested Features
+- PDF uploading
+- PDF text extraction
+- Document indexing
+- Gemini-based question answering
+- Context-based answer generation
+- Page number citations
+- Multiple question testing
+
+### Testing Results
+Tested PDF upload and question-answering
+functionality using 20 sample questions.
 
 - Subject Knowledge Base: `data/subject_notes.md`
 - Embedding Model: `sentence-transformers/all-MiniLM-L6-v2` (384 dimensions)
